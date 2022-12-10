@@ -1,8 +1,5 @@
 ### Olá! Eu sou a Elaine, desenvolvedora frontend em formação!
 
-- 🌱 Estudando Desenvolvimento de Software Multiplataforma
-- 📫 Cotate-me no email: elaineaps@outlook.com.br
-
 <div align="center">
   <a href="https://github.com/elaineads">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elaineads&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
